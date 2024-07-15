@@ -1,10 +1,10 @@
 {
-    "DisableProfileClassPlanEditing": true,
-    "DisableProfileTimeLayoutEditing": true,
-    "DisableProfileSubjectsEditing": true,
-    "DisableProfileEditing": true,
-    "DisableSettingsEditing": true,
-    "DisableSplashCustomize": true,
-    "DisableDebugMenu": true,
+    "DisableProfileClassPlanEditing": false,
+    "DisableProfileTimeLayoutEditing": false,
+    "DisableProfileSubjectsEditing": false,
+    "DisableProfileEditing": falsee,
+    "DisableSettingsEditing": false,
+    "DisableSplashCustomize": false,
+    "DisableDebugMenu": false,
     "AllowExitManagement": false
 }
