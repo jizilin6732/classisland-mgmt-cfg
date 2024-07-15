@@ -3,9 +3,9 @@
     "OrganizationName": "jizilin"
     {
         "ServerKind": 0,
-        "OrganizationName": "Hello",
+        "OrganizationName": "",
         "ClassPlanSource": {
             "Value": "https://raw.githubusercontent.com/jizilin6732/classisland-mgmt-cfg/master/classplans.json",
             "Version": 2
-        }
+    }
 }
